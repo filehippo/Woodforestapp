@@ -13,10 +13,6 @@ The overal purpose is to add a registration system where new users can go ahead 
 ![alt text](https://github.com/filehippo/Woodforestapp/blob/master/4.png)
 
 
-<img src="https://github.com/filehippo/Woodforestapp/blob/master/1.png" height="75">
-<img src="https://github.com/filehippo/Woodforestapp/blob/master/2.png" height="75">
 
- <img src="https://github.com/filehippo/Woodforestapp/blob/master/3.png" width="280"/> 
- <img src="https://github.com/filehippo/Woodforestapp/blob/master/4.png" width="280" />
 
 
