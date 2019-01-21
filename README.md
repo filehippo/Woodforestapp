@@ -3,7 +3,7 @@
 
 The purpose of the application is to serve as a dynamic website with the capability of having a service to have an updated version of the index of homes in the channelview area along with the maps of the  region. 
 
-Furure plans consist of adding dynamic features for others to create and add there own index.
+Future plans consist of adding dynamic features for others to create and add there own index and maps.
 
 # Updated feature
 
