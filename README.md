@@ -11,10 +11,9 @@ Future plans consist of adding dynamic features for others to create and add the
 - [x] Connection loss javascript message 
 - [x] Swipe down to refresh feature enabled 
 - [x] Error message on web or connection loss 
-- [x] Caching enabled and Javascript in Android Web View
+- [x] Caching enabled and javascript in android webview
 
 ## app screenshots 
-###### added features
 
 ![alt text](https://github.com/filehippo/Woodforestapp/blob/master/1.png)
 ![alt text](https://github.com/filehippo/Woodforestapp/blob/master/2.png)
@@ -22,6 +21,6 @@ Future plans consist of adding dynamic features for others to create and add the
 ![alt text](https://github.com/filehippo/Woodforestapp/blob/master/4.png)
 
 
-Made with &#9829; in Houston,Texas
+made with &#9829; in houston,texas
 
 
