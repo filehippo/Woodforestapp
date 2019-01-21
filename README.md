@@ -1,5 +1,5 @@
 # Woodforest Spanish - Android App 
-## Territory Tool Description - [Google Play ](https://play.google.com/store/apps/details?id=com.twinrat.woodforest)
+## Territory Database Tool - [Google Play ](https://play.google.com/store/apps/details?id=com.twinrat.woodforest)
 
 Android application in  google play can be found under woodforest spanish. The purpose of the application is to serve as a dynamic website with the capability of having a service to have an updated version of the index of homes in the channelview area along with the maps of the  region. 
 
@@ -11,7 +11,7 @@ Furure plans consist of adding dynamic features for others to create and add the
 - [x] Connection loss javascript message 
 - [x] Swipe down to refresh feature enabled 
 - [x] Error message on web or connection loss 
-- [x] Cacheing enabled and Javascript in Android Web View
+- [x] Caching enabled and Javascript in Android Web View
 
 ## Woodforest app screenshots 
 ###### Added features
